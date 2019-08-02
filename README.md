@@ -1,6 +1,6 @@
-# Swagger With FluentValidator
+# Cliet File Downloader 
 
-ASP .net Core web api with swagger and fluent validator integration.
+ASP .net Core web api with swagger and file downloader with Kendo UI.
 
 Even as .net core supports server side file downloads and the efficient way of doing it.
 We would require a client side file download as well. This would help in validating the files and rendering user with the needful details.
