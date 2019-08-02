@@ -1,4 +1,4 @@
-# Cliet File Downloader 
+# Client File Downloader 
 
 ASP .net Core web api with swagger and file downloader with Kendo UI.
 
